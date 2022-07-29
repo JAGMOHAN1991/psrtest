@@ -1,5 +1,5 @@
 <?php
-namespace ourworld\HelloComposer;
+namespace psrtest\HelloComposer;
 
 class Hello
 {
