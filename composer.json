@@ -1,5 +1,5 @@
 {
-  "name": "psrtest/hello-composer",
+  "name": "jagmohan1991/psrtest",
   "description": "My first packagist package",
   "type": "package",
   "require": {
@@ -17,7 +17,7 @@
   "prefer-stable": true,
   "autoload": {
     "psr-4": {
-      "psrtest\\HelloComposer\\": "src/"
+      "jagmohan1991\\PsrTest\\": "src/"
     }
   }
 }
