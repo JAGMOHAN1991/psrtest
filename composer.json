@@ -1,0 +1,22 @@
+{
+  "name": "ourworld/hello-composer",
+  "description": "My first packagist package",
+  "type": "package",
+  "require": {
+    "php": ">=7.0"
+  },
+  "license": "mit",
+  "authors": [
+    {
+      "name": "Jagmohan",
+      "email": "jagmohanp@gmail.com",
+      "homepage": "http://yourhomepage-if-you-have.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "ourworld\\HelloComposer\\": "src/"
+    }
+  }
+}
